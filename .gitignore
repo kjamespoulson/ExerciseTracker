@@ -1,0 +1,8 @@
+node_modules
+poulsonk_react/node_modules
+poulsonk_rest/node_modules
+.env
+.pdf
+.json
+.pack
+.zip
